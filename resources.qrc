@@ -1,0 +1,20 @@
+<RCC>
+    <qresource prefix="/Icons">
+        <file>icons/Fast Backward-32.png</file>
+        <file>icons/Fast Forward-32.png</file>
+        <file>icons/Mute-32.png</file>
+        <file>icons/Pause-32.png</file>
+        <file>icons/Play-32.png</file>
+        <file>icons/Repeat-32.png</file>
+        <file>icons/Shuffle-32.png</file>
+        <file>icons/Stop Filled-32.png</file>
+        <file>icons/Stop-24.png</file>
+        <file>icons/Stop-32.png</file>
+        <file>icons/Audio Wave-24.png</file>
+        <file>icons/Audio Wave-32.png</file>
+        <file>icons/Minus-16.png</file>
+        <file>icons/Plus Math-16.png</file>
+        <file>icons/Play-16.png</file>
+        <file>icons/Delete-16.png</file>
+    </qresource>
+</RCC>
